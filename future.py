@@ -64,8 +64,8 @@ def insert_mongo2(db,code,start_date,end_date,frequency):
 
 from pymongo import MongoClient
 
-client = MongoClient('carniejq.cn', 12345)
-db = client['VnTrader_1Min_Db']
+client = MongoClient('blabla', 666666)
+db = client['blabla']
 
 code = 'rb88'
 start_date = '20170101'
